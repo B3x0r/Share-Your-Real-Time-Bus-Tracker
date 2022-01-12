@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.map-overlay {
+  position: absolute;
+  left: 0;
+  padding: 10px;
+}
+
+.map-overlay div {
+  border: black solid 3px;
+  background-color: white;
+  color: #5c0f09;
+  font-size: 2em;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+}
