@@ -1,5 +1,5 @@
-// access token
-mapboxgl.accessToken = 'pk.eyJ1IjoicmpkdXJzdCIsImEiOiJja3k3aXNuMmwxNjR1MndxOW5wOWtscXFqIn0.eAKZrUdm3qQTw3GHUT_tag';
+// Add your own mapboxgl access token between the quotes
+mapboxgl.accessToken = '';
 
 const buses = {};
 
