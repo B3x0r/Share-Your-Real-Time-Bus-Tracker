@@ -6,7 +6,7 @@ This was a week 9 assignment that originally just pulled up real time data for t
  
 #### Installation:
  
-You can copy the files into the same folder on your device. You will need to add your mapboxgl access token to line 2 of the .js file. Then, you drag the .html file and it into the url line. Then, you can watch the buses move by. You can even zoom in and out to see more of the city.
+You can copy the files into the same folder on your device. You will need to swap out your mapboxgl access token on line 2 of the .js file. Then, you drag the .html file and it into the url line. Then, you can watch the buses move by. You can even zoom in and out to see more of the city.
  
 #### Usage:
  
