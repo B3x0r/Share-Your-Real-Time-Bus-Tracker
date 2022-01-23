@@ -1,6 +1,8 @@
 # Share-Your-Real-Time-Bus-Tracker
 #### Description:
 This was a week 9 assignment that originally just pulled up real time data for the route 1 bus in the console. I added a satellite street map of Boston. Then, I added markers for all of the buses running at a given time and have them moving around the map with updated locations every 15 seconds.
+
+<img src= "Bus Tracker.jpg" width='300'/>
  
 #### Installation:
  
